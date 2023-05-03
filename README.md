@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Tailwind**
 
+- 🔮 I want to learn **Go**
+
 - 📫 How to reach me **charliematar3@gmail.com**
 
 - 📄 Know about my experiences [charliematar.github.io](https://charliematar.github.io/)
