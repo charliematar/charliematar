@@ -5,12 +5,6 @@
 <h3 align="center">I am currently a Full-Stack Engineer at JP3 Measurement</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-- 🔭 I’m currently working on **various JS side-projects**
-
-- 🌱 I’m currently learning **Tailwind**
-
-- 🔮 I want to learn **Go**
-
 - 📫 How to reach me **charliematar3@gmail.com**
 
 - 📄 Know about my experiences [charliematar.github.io](https://charliematar.github.io/)
