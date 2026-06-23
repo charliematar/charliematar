@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">
   Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated" /> I'm Charlie Matar
  </h1>
